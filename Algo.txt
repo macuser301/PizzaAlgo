@@ -1,8 +1,8 @@
 1.  Decide on pizza place
-2.  Decide what type of pizza i want to order 
-3.  Call the pizza place
+2.  Decide what type of pizza i want to order
+3.  Call the pizza placeai
 4.  Order the pizza
-     4a. Pay over the phone      and tip 
+     4a. Pay over the phone   then tip the driver
      4b. Pay at door
 5.  Wait for delivery
 6.  Greet delivery driver
